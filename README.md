@@ -2,8 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Front-End Developer</h4>
 
-- 🌱 I’m currently learning Node
-- 💬 Ask me about Technology
 - 📫 How to reach me: supratipdas24@gmail.com
 - ⚡ Fun fact: I'm currently studying BCA
 
